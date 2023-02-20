@@ -1,12 +1,15 @@
-import React from 'react'
-import Navbar from './Navbar'
+
+
 
 const Header = () => {
   return (
-    <div>
-    <Navbar />
+    <header>
+      <div className='header'>
+         
     
-    </div>
+    </div> 
+    </header>
+   
   )
 }
 
